@@ -9,7 +9,7 @@
     />
     <div class="text-h6 q-ma-none">{{ this.category }}</div>
   </div>
-  <div class="q-py-lg">Expense Detail page</div>
+  <div class="q-py-lg">Expense Detail page Hello</div>
 </template>
 
 <script>
