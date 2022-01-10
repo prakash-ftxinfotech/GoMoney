@@ -1,0 +1,262 @@
+{
+  "addmoney": [
+    {
+      "amount": 150000,
+      "category": "salary",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 1
+    },
+    {
+      "amount": 1,
+      "category": "saving",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:30:34.123Z",
+      "id": 2
+    },
+    {
+      "amount": 500000,
+      "category": "salary",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:30:58.187Z",
+      "id": 3
+    },
+    {
+      "amount": 1500000,
+      "category": "saving",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:31:10.019Z",
+      "id": 4
+    },
+    {
+      "amount": 150000000,
+      "category": "saving",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:31:18.657Z",
+      "id": 5
+    },
+    {
+      "amount": 1,
+      "category": "saving",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:18:29.967Z",
+      "id": 6
+    },
+    {
+      "amount": 1,
+      "category": "saving",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:20:29.989Z",
+      "id": 7
+    },
+    {
+      "amount": 5,
+      "category": "salary",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:21:21.796Z",
+      "id": 8
+    }
+  ],
+  "expensemoney": [
+    {
+      "amount": 501000,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 1
+    },
+    {
+      "amount": 520000,
+      "category": "Bill",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 2
+    },
+    {
+      "amount": 530000,
+      "category": "Bill",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 3
+    },
+    {
+      "amount": 540000,
+      "category": "Sports",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 4
+    },
+    {
+      "amount": 550000,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 5
+    },
+    {
+      "amount": 560000,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 6
+    },
+    {
+      "amount": 570000,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2021-12-29T09:01:39.958Z",
+      "id": 7
+    },
+    {
+      "amount": 5,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:04:32.097Z",
+      "id": 8
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:13:07.583Z",
+      "id": 9
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:23:24.765Z",
+      "id": 10
+    },
+    {
+      "amount": 1,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:24:42.942Z",
+      "id": 11
+    },
+    {
+      "amount": 1,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:26:10.028Z",
+      "id": 12
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:26:18.557Z",
+      "id": 13
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:27:44.300Z",
+      "id": 14
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:29:14.507Z",
+      "id": 15
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:30:16.283Z",
+      "id": 16
+    },
+    {
+      "amount": 2,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:30:22.267Z",
+      "id": 17
+    },
+    {
+      "amount": 1,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:30:27.715Z",
+      "id": 18
+    },
+    {
+      "amount": 2,
+      "category": "Car",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-03T13:30:38.410Z",
+      "id": 19
+    },
+    {
+      "amount": 1,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:18:37.631Z",
+      "id": 20
+    },
+    {
+      "amount": 1,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:19:54.340Z",
+      "id": 21
+    },
+    {
+      "amount": 1,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:20:09.821Z",
+      "id": 22
+    },
+    {
+      "amount": 1,
+      "category": "Home",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:20:14.925Z",
+      "id": 23
+    },
+    {
+      "amount": 1,
+      "category": "Bill",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:20:36.565Z",
+      "id": 24
+    },
+    {
+      "amount": 1,
+      "category": "Sports",
+      "user": "Prakash Kumar",
+      "datetime": "2022-01-07T09:21:28.254Z",
+      "id": 25
+    }
+  ],
+  "expensemoneycategory": [
+    {
+      "category": "Home",
+      "id": 1
+    },
+    {
+      "category": "Bill",
+      "id": 2
+    },
+    {
+      "category": "Car",
+      "id": 3
+    },
+    {
+      "category": "Sports",
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Prakash",
+      "password": "prakash123"
+    }
+  ]
+}
